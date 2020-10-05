@@ -1,0 +1,4 @@
+register: 
+  ip: 
+    limit: 2
+    timeSeconds: 60
