@@ -1,0 +1,9 @@
+mail:
+  host: mtp.qq.com
+  transport: 
+    protocol: smtp
+  smtp: 
+    auth: "true"
+  username: 564889144@qq.com
+  password: zmjiuuxakrdrbfeb
+    
