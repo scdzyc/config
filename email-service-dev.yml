@@ -4,6 +4,8 @@ mail:
     protocol: smtp
   smtp: 
     auth: "true"
+    ssl: 
+      enable: "true"
   username: 564889144@qq.com
   password: zmjiuuxakrdrbfeb
     
