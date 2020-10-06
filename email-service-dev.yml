@@ -1,5 +1,5 @@
 mail:
-  host: mtp.qq.com
+  host: smtp.qq.com
   transport: 
     protocol: smtp
   smtp: 
