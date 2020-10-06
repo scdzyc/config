@@ -1,4 +1,4 @@
 register: 
   ip: 
-    limit: 2
-    timeSeconds: 60
+    limit: 1
+    timeMinutes: 1
